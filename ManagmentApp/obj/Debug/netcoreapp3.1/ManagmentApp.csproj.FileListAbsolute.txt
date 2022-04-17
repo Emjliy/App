@@ -1,0 +1,14 @@
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\bin\Debug\netcoreapp3.1\ManagmentApp.exe
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\bin\Debug\netcoreapp3.1\ManagmentApp.deps.json
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\bin\Debug\netcoreapp3.1\ManagmentApp.runtimeconfig.json
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\bin\Debug\netcoreapp3.1\ManagmentApp.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\bin\Debug\netcoreapp3.1\ManagmentApp.dll
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\bin\Debug\netcoreapp3.1\ManagmentApp.pdb
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.dll
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.pdb
+C:\Users\Emilia\Desktop\new home tak\ManagmentApp\ManagmentApp\obj\Debug\netcoreapp3.1\ManagmentApp.genruntimeconfig.cache
